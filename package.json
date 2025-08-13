@@ -1,0 +1,17 @@
+{
+  "name": "bookin-guru-assessment",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www",
+    "test": "jest"
+  },
+  "dependencies": {
+    "express": "~4.16.1",
+    "node-cache": "^5.1.2"
+  },
+  "devDependencies": {
+    "jest": "^30.0.5",
+    "supertest": "^7.1.4"
+  }
+}
